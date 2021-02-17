@@ -1,0 +1,135 @@
+.neo{
+	position: absolute;
+	left: 30%;
+	top: 18%;
+	font-size:300%;
+	color:white; 
+}
+.neo2{
+	position: absolute;
+	left:45%;
+	top:90%;
+	font-size:250%;
+	color:white;  
+}
+.fondo{background-image: url("../Fotos/fondo2.jpg");
+	background-size: cover;
+}	
+.yo{
+	position: absolute;
+	left:2%;
+	top:5%;
+	width:25%;
+	height:40%;
+	border-radius:10%;
+}
+.neo3{
+	position: absolute;
+	left:32%;
+	top:35%;
+	font-size:290%;
+	color:white;
+
+}
+.boton1{
+	position: absolute;
+	left:27%;
+	top:57%;
+	width:13%; 
+	height:9%;
+	background-color:#14C5F1;
+
+}
+.pe1{
+	background-image: url("../Fotos/fondo2.jpg");
+	background-size: cover;
+}
+.pe1neo{
+	position: absolute;
+	left: 42%;
+	top: 10%;
+	font-size:350%;
+	color:white; 
+
+}
+.volver{
+	position: absolute;
+	left:2%;
+	top:3%;
+	width:13%; 
+	height:9%;
+	background-color:#58FFE7;
+
+}
+.boton2{
+	position: absolute;
+	left:30%;
+	top:75%;
+	width:13%; 
+	height:9%;
+	background-color:#14C5F1;
+
+}
+.peri2{
+	background-image: url("../Fotos/fondo2.jpg");
+	background-size: cover;
+
+}
+.peri2t{
+	position: absolute;
+	left: 42%;
+	top: 10%;
+	font-size:350%;
+	color:white; 
+}
+.boton3{
+	position: absolute;
+	left:60%;
+	top:57%;
+	width:13%; 
+	height:9%;
+	background-color:#14C5F1;
+
+
+}
+.pe3{
+	background-image: url("../Fotos/fondo2.jpg");
+	background-size: cover;
+}
+.pe3t{
+	position: absolute;
+	left: 42%;
+	top: 10%;
+	font-size:350%;
+	color:white; 
+}
+.boton4{
+	position: absolute;
+	left:57%;
+	top:75%;
+	width:13%; 
+	height:9%;
+	background-color:#14C5F1;
+
+
+}
+.p4neo{
+	background-image: url("../Fotos/fondo2.jpg");
+	background-size: cover;
+}
+.pe4{
+	position: absolute;
+	left: 42%;
+	top: 10%;
+	font-size:350%;
+	color:white; 
+
+}
+.parc{
+		position: absolute;
+	left:2%;
+	top:15%;
+	width:13%; 
+	height:9%;
+	background-color:#58FFE7;
+}
